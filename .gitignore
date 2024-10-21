@@ -2,5 +2,4 @@
 .mylyn/
 .plugins/
 .vscode/
-exam/.settings
 exam/src/target
