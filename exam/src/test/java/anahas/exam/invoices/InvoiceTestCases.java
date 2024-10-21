@@ -18,8 +18,11 @@ public class InvoiceTestCases {
 		invoiceDetails.closePage();
 	}
 	
+	//Test Case 003
+	//Description: After a successful login, Invoice List shown, the data from
+	//the first invoice should be validated.
 	@Test
-	public void checkInvoiceDetails () {
+	public void tc003 () {
 	//Step1
 		//Testing variables
 		String username = "demouser";
